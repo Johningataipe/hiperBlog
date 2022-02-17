@@ -1,6 +1,9 @@
-esta en mi histori de texto 
+import random 
+import numpy as np
 
-Jhon inga taipe 25 años Nacio en Perù, 
-y en todo el mundo 
+a = input("ingrese un numero" )
+b = input("ingrese otro numero")
 
-hoy hablaremos de su historia.
+x = random.randint(a,b)
+
+print(x)
