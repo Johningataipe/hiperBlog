@@ -1,0 +1,9 @@
+import random 
+import numpy as np
+
+a = input("ingrese un numero" )
+b = input("ingrese otro numero")
+
+x = random.randint(a,b)
+
+print(x)
